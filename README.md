@@ -1,10 +1,6 @@
 # Online-Attendance-System-with-Manual-Class-Control
 
-This project is an online attendance system built to solve the problem of altering attendance records. 
-Current attendance systems use client time as a guide as to when to open and close classes. 
-This automation allows the possibility of altering attendance records by changing a device's date and time.
-This project solves that problem by disregarding the automation process of opening and closing of classes and allowing the respective lecturer of a class to manually open or close his/her class.
-This project also features a six letter OTP code for authentication.
+In universities, just like every other educational institution, classes are organized to improve a student’s knowledge and skill. By attending the relevant classes, a student proves he’s not only academically concerned but also schedule-oriented. Traditionally, attendance for classes is recorded using pen and paper, thought to be the only way, this system is inefficient systematically. Recently, a few universities such as Middlesex University, London, has implemented attendance management systems in their environment and has proven more effective than the native method. However, the use of client time to open and close classes in the management system causes a loophole where the attendance system’s time can be altered allowing attendance records to be altered. As an alternative, this project is a system where the opening and closing of classes is done manually by the respective lecturer, and includes OTP as a security layer to validate a student’s authentication. In conclusion, the system will be more efficient and systematic than the native method and more secure and consistent than the current attendance management systems.
 
 Future Works on the Project:
 Adding an extra layer of authenticaton using fingerprint.
