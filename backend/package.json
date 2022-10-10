@@ -8,7 +8,9 @@
     "start": "nodemon server.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "test": "mocha"
+    "build": "react-scripts build",
+    "test": "mocha",
+    "eject": "react-scripts eject"
   },
   "author": "",
   "license": "ISC",
