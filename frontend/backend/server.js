@@ -27,10 +27,6 @@ app.use('/api/users', userRouter);
 app.use('/api/classes', classRouter);
 app.use('/api/courses', courseRouter);
 
-/*app.get('/api/otc', (req, res) => {
-  var otc = Math.floor(100000 + Math.random() * 900000);
-  res.send(otc + '');
-});*/
 app.get('/', (req, res) => {
   res.send('Server Deployed!');
 });
