@@ -1,7 +1,7 @@
 {
   "homepage": "https://DaisNaid.github.io/Online-Attendance-System-with-Manual-Class-Control",
   "name": "oas_x",
-  "proxy": "http://localhost:5000",
+  "proxy": "server.js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
